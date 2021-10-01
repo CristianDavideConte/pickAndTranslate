@@ -62642,9 +62642,10 @@ return s},
 $S:76}
 X.a7Q.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=i.b,f=g.a.b
-g=f+g.e.d
-if(g>600)g=new V.aG(0,f/4,0,0)
-else g=g>350?new V.aG(0,f/10,0,0):C.ad
+g=g.e.d
+s=f-g
+if(s>600)g=new V.aG(0,f/4,0,g)
+else g=s>350?new V.aG(0,f/10,0,g):C.ad
 f=i.c
 s=T.eA(L.pZ("Word & Translation",h,h,h,K.ar(a).P.y,C.bR,h),h,f*2/3)
 r=i.d
