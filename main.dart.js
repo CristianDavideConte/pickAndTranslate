@@ -62703,7 +62703,7 @@ bc(){var s,r=null,q=$.b_(),p=q.x
 if(p==null)p=H.aJ()
 s=q.gj4().hu(0,p)
 q=X.agQ()
-this.e=S.ad2(X.agP(),M.aiD(r,M.fs(C.ag,S.qb(T.eA(D.tH(C.L5,this.ga_z()),s.b*0.1,s.a*0.3),"Login with a Google account",C.bl),r,r,r,r,r,r,r)),q,"P&T Login")
+this.e=S.ad2(X.agP(),M.aiD(r,M.fs(C.ag,S.qb(T.eA(D.tH(C.L5,this.ga_z()),s.b*0.1,s.a*0.5),"Login with a Google account",C.bl),r,r,r,r,r,r,r)),q,"P&T Login")
 this.bE()},
 a_A(){if(C.c.ip(this.d)==="")D.abw().bT(0,new D.WT(this),t.P).mn(new D.WU())},
 S(a,b){var s=this.e
@@ -67294,7 +67294,7 @@ C.JB=new A.t(!1,null,null,null,null,null,14,C.aT,null,null,null,C.H,null,null,nu
 C.Ii=new A.t(!1,null,null,null,null,null,10,C.O,null,1.5,null,C.H,null,null,null,null,null,null,null,null,null,"englishLike overline 2014",null,null,null)
 C.L4=new R.cV(C.J6,C.J7,C.J8,C.J9,C.Ja,C.J_,C.IT,C.JL,C.JM,C.JN,C.Iy,C.JB,C.Ii)
 C.vO=new U.HM("TextWidthBasis.longestLine")
-C.L5=new L.x8("Pick & Translate",null,null,null,null,null,null,null)
+C.L5=new L.x8("Login",null,null,null,null,null,null,null)
 C.NN=new S.a3E("ThemeMode.system")
 C.L6=new M.xp(null)
 C.dE=new P.q9(0,"TileMode.clamp")
