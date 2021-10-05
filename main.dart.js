@@ -63279,33 +63279,33 @@ s=K.jX(20)
 r=this.c
 r.toString
 p.OO(N.ajL(q,q,o.rx,C.f6,T.aeq(H.a([L.n3(a,q,q,q,A.ha(q,q,K.ak(r).O.y.b,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],t.F),C.aT,C.bS,C.bg),C.ha,C.Bw,0,q,new V.aE(b,20,b,20),q,q,new X.cA(s,C.v),q))},
-M(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=t.w,e=b.N(f).f.a.b,d=b.N(f).f.a.a,c=b.N(f).f.e.d
-f=A.ha(g,g,K.ak(b).O.y.b,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g)
+M(a,a0){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=t.w,e=a0.N(f).f.a.b,d=a0.N(f).f.a.a,c=a0.N(f).f.e.d,b="H/Pd: "+C.d.i(e)+"/"+C.d.i(a0.N(f).f.e.d)
+f=A.ha(g,g,K.ak(a0).O.y.b,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g)
 s=A.ha(g,g,C.h2,g,g,g,g,g,g,g,g,g,g,C.b6,g,g,!0,g,g,g,g,g,g,g,g)
-r=A.ha(g,g,K.ak(b).O.y.b,g,g,g,g,g,g,g,g,g,C.k9,g,g,g,!0,g,g,g,g,g,g,g,g)
-q=K.ak(b)
+r=A.ha(g,g,K.ak(a0).O.y.b,g,g,g,g,g,g,g,g,g,C.k9,g,g,g,!0,g,g,g,g,g,g,g,g)
+q=K.ak(a0)
 r=L.adI(g,new F.fi(4,K.jX(20),C.v),g,g,g,g,g,g,!0,g,g,g,s,g,q.rx,!0,g,g,g,g,g,g,g,g,1,r,"A foreign word...",g,g,g,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g)
 p=E.ajV(D.ajT(h.a.c),r,1,f,new R.a4V())
-f=A.ha(g,g,K.ak(b).O.y.b,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g)
+f=A.ha(g,g,K.ak(a0).O.y.b,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g)
 r=A.ha(g,g,C.h2,g,g,g,g,g,g,g,g,g,g,C.b6,g,g,!0,g,g,g,g,g,g,g,g)
-q=A.ha(g,g,K.ak(b).O.y.b,g,g,g,g,g,g,g,g,g,C.k9,g,g,g,!0,g,g,g,g,g,g,g,g)
-s=K.ak(b)
-q=L.adI(g,new F.fi(4,K.jX(20),C.v),g,g,g,g,g,g,!0,g,g,g,r,g,s.rx,!0,g,g,g,g,g,g,g,g,1,q,"The translation...",g,g,g,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g)
+q=A.ha(g,g,K.ak(a0).O.y.b,g,g,g,g,g,g,g,g,g,C.k9,g,g,g,!0,g,g,g,g,g,g,g,g)
+s=K.ak(a0)
+q=L.adI(g,new F.fi(4,K.jX(20),C.v),g,g,g,g,g,g,!0,g,g,g,r,g,s.rx,!0,g,g,g,g,g,g,g,g,1,q,b,g,g,g,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g)
 o=E.ajV(D.ajT(h.a.d),q,2,f,new R.a4W())
 f=e>600
 if(f)s=c>0?new V.aE(0,0,0,c):new V.aE(0,e/4,0,0)
 else s=e>350?C.BB:C.ag
-r=T.dn(L.n3("Word & Translation",g,g,g,K.ak(b).O.y,C.c3,g),g,d*2/3)
+r=T.dn(L.n3("Word & Translation",g,g,g,K.ak(a0).O.y,C.c3,g),g,d*2/3)
 q=$.ag2()
 n=t.F
-m=T.tB(H.a([p,T.dn(g,new R.a4U(b).$0()/10,g),o],n),C.aT,C.bf,C.bg)
+m=T.tB(H.a([p,T.dn(g,new R.a4U(a0).$0()/10,g),o],n),C.aT,C.bf,C.bg)
 l=d*3/10
 k=f?e/12:e/8
-j=K.ak(b).O.ch.b
-k=S.kV(T.dn(D.os(L.uG(C.C5,j,f?e/25:e/12),new R.a4X(h,p,o,d,b)),k,l),"Update words list",C.b5)
+j=K.ak(a0).O.ch.b
+k=S.kV(T.dn(D.os(L.uG(C.C5,j,f?e/25:e/12),new R.a4X(h,p,o,d,a0)),k,l),"Update words list",C.b5)
 j=f?e/12:e/8
-i=K.ak(b).O.ch.b
-return T.tB(H.a([new E.BD(r,new A.ut(m,C.dR,q),H.a([K.aht(C.hT,C.ag,H.a([k,S.kV(T.dn(D.os(L.uG(C.C4,i,f?e/25:e/12),new R.a4Y(h,d,b)),j,l),"Delete current word",C.b5)],n))],n),s,g)],n),C.aT,C.bf,C.bg)}}
+i=K.ak(a0).O.ch.b
+return T.tB(H.a([new E.BD(r,new A.ut(m,C.dR,q),H.a([K.aht(C.hT,C.ag,H.a([k,S.kV(T.dn(D.os(L.uG(C.C4,i,f?e/25:e/12),new R.a4Y(h,d,a0)),j,l),"Delete current word",C.b5)],n))],n),s,g)],n),C.aT,C.bf,C.bg)}}
 R.a4V.prototype={
 $1(a){var s=C.c.ir(a)
 return s===""?"The word is missing":null},
